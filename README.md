@@ -1,16 +1,16 @@
-### Hi there 👋
+Hey, I’m Conor, a Minnesota-based frontend developer specializing in building accessible, scalable web apps in React and Node. 
 
-<!--
-**conorsexton/conorsexton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Now
+- 👨🏻‍💻 Working as a software engineering technology consultant with AIM Consulting Group at a Fortune 500 retailer
+- ✍🏼 Writing and reading at [conorsexton.com](https://conorsexton.com)
+- 🥑 Developing **Food From 101**: a slapdash anti-food-blog recipe repository
+- 🐦 Learning Swift and SwiftUI
+- 📸 Posting photos to [Unsplash](https://unsplash.com/@conorsexton)
+- 🎪 Practicing flying trapeze
+- ☕️ Hand-brewing coffee
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Previously
+- 🏨 Software engineer at Hilton Worldwide
+- ⚙️ Automation, technical docs, and solutions engineering at Leadpages
+- 🌲 Environmental Economics undergrad
+- ⛵️ Competitive sailor
